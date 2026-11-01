@@ -1,0 +1,9 @@
+/* BarOS — icônes SVG (trait fin, couleur du texte : aucune couleur ajoutée) */
+.ic-w{display:inline-flex;align-items:center;justify-content:center;position:relative;width:1.1em;height:1.1em;vertical-align:-.17em;line-height:1;flex-shrink:0}
+.ic{width:100%;height:100%;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;overflow:visible}
+.ic-t{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;opacity:0;font-size:1px;pointer-events:none;user-select:none}
+/* statuts : mêmes couleurs que le thème (vert / orange / rouge) */
+.ic-w.c-gn{color:var(--gn,#4ade80)}
+.ic-w.c-wn{color:var(--wn,#ffb444)}
+.ic-w.c-dg{color:var(--dg,#ff5e5e)}
+.ic-w.c-mt{color:var(--mt,rgba(240,239,245,.45))}
